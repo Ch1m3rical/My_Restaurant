@@ -1,0 +1,4 @@
+id_vente,date,produit,quantite,prix_unitaire,id_employe
+1,2024-09-01,Pizza Margherita,10,12.5,1
+2,2024-09-01,Coca-Cola,20,3.0,2
+,,,

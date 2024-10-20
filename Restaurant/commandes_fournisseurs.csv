@@ -1,0 +1,3 @@
+id_commande,date,id_produit,fournisseur,quantite,prix_unitaire
+1,2024-09-01,1,Fournisseur_Pizza,20,7.5
+2,2024-09-01,2,Fournisseur_Boissons,50,1.4
